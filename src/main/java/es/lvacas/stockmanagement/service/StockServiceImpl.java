@@ -7,6 +7,11 @@ import org.springframework.stereotype.Service;
 
 import es.lvacas.stockmanagement.model.Product;
 
+/**
+ * This class implements the interface related to the products service
+ * @author LCD_oficina
+ *
+ */
 @Service
 public class StockServiceImpl implements StockService{
 	

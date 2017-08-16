@@ -5,6 +5,10 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 import es.lvacas.stockmanagement.model.Product;
 
+/**
+ * This class defines the interface for the services related with
+ * the management of the product stock
+ */
 @Service
 public interface StockService {
 
